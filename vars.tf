@@ -1,10 +1,10 @@
 AWS Config
 variable "aws_access_key" {
-default = "PASTE_ACCESS_KEY_HERE"
+default = "AKIAWBVGC7S5KOEQCZ6L"
 }
 variable "aws_secret_key" {
-default = "PASTE_SECRET_KEY_HERE"
+default = "vY4SmT2O2bZ7jEfd7/OSmG4PJzDbXeHbOmo7eLuJ"
 }
 variable "aws_region" {
-default = "ENTER_AWS_REGION"
+default = "us-east-2"
 }
